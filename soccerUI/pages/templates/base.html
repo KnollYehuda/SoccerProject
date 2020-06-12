@@ -1,0 +1,635 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <div id="Home" class="site-section-heading"></div>
+    <title>Football Machine Learning</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+
+    <link href="https://fonts.googleapis.com/css?family=Roboto+Mono" rel="stylesheet">
+    <link rel="stylesheet" href="{% static 'fonts/icomoon/style.css' %}">
+    <link rel="stylesheet" href="{% static 'css/bootstrap.min.css' %}">
+    <link rel="stylesheet" href="{% static 'css/magnific-popup.css' %}">
+    <link rel="stylesheet" href="{% static 'css/jquery-ui.css' %}">
+    <link rel="stylesheet" href="{% static 'css/owl.carousel.min.css' %}">
+    <link rel="stylesheet" href="{% static 'css/owl.theme.default.min.css' %}">
+    <link rel="stylesheet" href="{% static 'css/bootstrap-datepicker.css' %}">
+    <link rel="stylesheet" href="{% static 'fonts/flaticon/font/flaticon.css' %}">
+    <link rel="stylesheet" href="{% static 'css/aos.css' %}">
+    <link rel="stylesheet" href="{% static 'css/loader.css' %}">
+    <link rel="stylesheet" href="{% static 'css/style.css' %}">
+</head>
+<body>
+
+<div class="site-wrap">
+
+    <div class="site-mobile-menu">
+        <div class="site-mobile-menu-header">
+            <div class="site-mobile-menu-close mt-3">
+                <span class="icon-close2 js-menu-toggle"></span>
+            </div>
+        </div>
+        <div class="site-mobile-menu-body"></div>
+    </div>
+
+    <header class="site-navbar py-3" role="banner">
+        <div class="container-fluid">
+            <div class="row align-items-center">
+                <div class="col-11 col-xl-2">
+                    <h3 class="mb-0"><a href="/" class="text-white h2 mb-0">Scout<span
+                            class="text-primary">AI</span> </a></h3>
+                </div>
+
+
+
+                <div class="col-12 col-md-10 d-none d-xl-block">
+                    <nav class="site-navigation position-relative text-right" role="navigation">
+                        <ul class="site-menu js-clone-nav mx-auto d-none d-lg-block">
+                            <li><a href="/">Home</a></li>
+                            <li><a href="#England" class="sliding-link">England</a></li>
+                            <li><a href="#spain" class="sliding-link">Spain</a></li>
+                            <li><a href="#Italy" class="sliding-link">Italy</a></li>
+                            <li><a href="#Germany" class="sliding-link">Germany</a></li>
+                            <li><a href="#aboutUsPage" class="sliding-link"> About Us</a></li>
+
+
+                        </ul>
+                    </nav>
+                </div>
+                <div class="d-inline-block d-xl-none ml-md-0 mr-auto py-3" style="position: relative; top: 3px;"><a
+                        href="#" class="site-menu-toggle js-menu-toggle text-white"><span
+                        class="icon-menu h3"></span></a></div>
+            </div>
+        </div>
+        <!--  </div> -->
+    </header>
+
+    <div class="site-section site-hero">
+        <div class="container">
+            {#            <div class="row align-items-center">#}
+            {#                <div class="col-md-10">#}
+            <h1 class="d-block mb-4" data-aos="fade-up" data-aos-delay="10">A wise bet That's all you ever need.</h1>
+            {#                </div>#}
+            {#           </div>#}
+        </div>
+    </div>
+
+
+    <div class="site-section">
+        <div class="container">
+            <div class="row mb-5">
+                <div class="col-lg-4" data-aos="fade-up" data-aos-delay="100">
+                    <div id="aboutUsPage" class="site-section-heading">
+                        <h2>About Us</h2>
+                    </div>
+                </div>
+                <div class="col-lg-5 mt-5 pl-lg-5" data-aos="fade-up" data-aos-delay="200">
+
+                    <p>We are four CS students.
+                        As part of our final project we chose to focus on one of our hobbies, Football.
+
+                    </p>
+
+
+                </div>
+            </div>
+
+
+
+
+            <div class="row align-items-center speaker">
+                <div class="col-lg-6 mb-5 mb-lg-0" data-aos="fade" data-aos-delay="100">
+                    <img src="{% static 'images/amit.jpg' %}" alt="Image" class="img-fluid">
+                </div>
+                <div class="col-lg-6 ml-auto">
+                    <h2 class="names" data-aos="fade-right" data-aos-delay="200">Amit Turgeman</h2>
+                    <div class="bio pl-lg-5">
+                        <span class="text-uppercase text-primary d-block mb-3" data-aos="fade-right"
+                              data-aos-delay="300">Web Designer</span>
+                        <p class="mb-4" data-aos="fade-right" data-aos-delay="400"> A little bit about myself.</p>
+                        <p data-aos="fade-right" data-aos-delay="500">
+                            Follow Amit &mdash;
+                            <a href="https://www.facebook.com/amit.turgeman.9" class="p-2"><span
+                                    class="icon-facebook"></span></a>
+                            <a href="https://twitter.com/turgrman" class="p-2"><span class="icon-twitter"></span></a>
+                            <a href="https://github.com/amitt71" class="p-2"><span class="icon-github"></span></a>
+                        </p>
+                    </div>
+                </div>
+            </div>
+
+            <div class="row align-items-center speaker">
+                <div class="col-lg-6 mb-5 mb-lg-0 order-lg-2" data-aos="fade" data-aos-delay="100">
+                    <img src="{% static 'images/Meron.jpg' %}" alt="Image" class="img-fluid">
+                </div>
+                <div class="col-lg-6 ml-auto order-lg-1">
+                    <h2 class="names" data-aos="fade-left" data-aos-delay="200">Meron Brumberg</h2>
+                    <div class="bio pr-lg-5">
+                        <span class="text-uppercase text-primary d-block mb-3" data-aos="fade-left"
+                              data-aos-delay="300">Software Developer</span>
+                        <p class="mb-4" data-aos="fade-left" data-aos-delay="400"> A little bit about myself.</p>
+                        <p data-aos="fade-left" data-aos-delay="500">
+                            Follow Meron &mdash;
+                            <a href="https://www.facebook.com/meron1" class="p-2"><span
+                                    class="icon-facebook"></span></a>
+                            <a href="#" class="p-2"><span class="icon-twitter"></span></a>
+                            <a href="https://github.com/meron100" class="p-2"><span class="icon-github"></span></a>
+                        </p>
+                    </div>
+                </div>
+            </div>
+            <div class="row align-items-center speaker">
+                <div class="col-lg-6 mb-5 mb-lg-0" data-aos="fade" data-aos-delay="100">
+                    <img src="{% static 'images/Snir.jpg' %}" alt="Image" class="img-fluid">
+                </div>
+                <div class="col-lg-6 ml-auto">
+                    <h2 class="names" data-aos="fade-right" data-aos-delay="200">Snir Ohayon</h2>
+                    <div class="bio pl-lg-5">
+                        <span class="text-uppercase text-primary d-block mb-3" data-aos="fade-right"
+                              data-aos-delay="300">Software Developer</span>
+                        <p class="mb-4" data-aos="fade-right" data-aos-delay="400">A little bit about myself.</p>
+                        <p data-aos="fade-right" data-aos-delay="500">
+                            Follow Snir &mdash;
+                            <a href="https://www.facebook.com/SnirHapoelj" class="p-2"><span
+                                    class="icon-facebook"></span></a>
+                            <a href="#" class="p-2"><span class="icon-twitter"></span></a>
+                            <a href="https://github.com/snirhap" class="p-2"><span class="icon-github"></span></a>
+                        </p>
+                    </div>
+                </div>
+            </div>
+
+
+            <div class="row align-items-center speaker">
+                <div class="col-lg-6 mb-5 mb-lg-0 order-lg-2" data-aos="fade" data-aos-delay="100">
+                    <img src="{% static 'images/Yehuda.jpg' %}" alt="Image" class="img-fluid">
+                </div>
+                <div class="col-lg-6 ml-auto order-lg-1">
+                    <h2 class="names" data-aos="fade-left" data-aos-delay="200">Yehuda Knoll</h2>
+                    <div class="bio pr-lg-5">
+                        <span class="text-uppercase text-primary d-block mb-3" data-aos="fade-left"
+                              data-aos-delay="300">Software Developer</span>
+                        <p class="mb-4" data-aos="fade-left" data-aos-delay="400">A little bit about myself.</p>
+                        <p data-aos="fade-left" data-aos-delay="500">
+                            Follow Yehuda &mdash;
+                            <a href="https://www.facebook.com/yehuda.knoll" class="p-2"><span
+                                    class="icon-facebook"></span></a>
+                            <a href="#" class="p-2"><span class="icon-twitter"></span></a>
+                            <a href="https://github.com/KnollYehuda" class="p-2"><span class="icon-github"></span></a>
+                        </p>
+                    </div>
+                </div>
+            </div>
+
+
+        </div>
+    </div>
+
+
+    <div class="site-section">
+        <div class="container">
+            <div class="row mb-5">
+                <div class="col-lg-4" data-aos="fade-up">
+                    <div id="England" class="site-section-heading">
+                    </div>
+                </div>
+                <div class="col-lg-11 mt-9 pl-lg-1" data-aos="fade-up" data-aos-delay="300">
+                    <img src="{% static 'images/English Premier League.jpg' %}" alt="Image" class="img-fluid" align="right">
+
+
+
+                </div>
+
+
+            </div>
+
+            <div class="row align-items-stretch program">
+                <div class="col-12 border-top border-bottom py-5" data-aos="fade" data-aos-delay="200">
+                    <div class="row align-items-stretch">
+                        <div class="input-field col s12">
+                            <select id="PL_H" class="custom-select">
+                                <option value="" disabled selected>Home Team</option>
+                                <option value="1">Liverpool</option>
+                                <option value="2">Manchester City</option>
+                                <option value="3">Tottenham</option>
+                                <option value="4">Manchester United</option>
+                                <option value="5">Arsenal</option>
+                                <option value="6">Chelsea</option>
+                                <option value="7">Wolves</option>
+                                <option value="8">Watford</option>
+                                <option value="9">WestHam</option>
+                                <option value="10">Everton</option>
+                                <option value="11">Leicester City</option>
+                                <option value="12">Bournemouth</option>
+                                <option value="13">Crystal Palace</option>
+                                <option value="14">Newcastle United</option>
+                                <option value="15">Brighton</option>
+                                <option value="16">Burnley</option>
+                                <option value="17">Southampton</option>
+                                <option value="18">Cardiff City</option>
+                                <option value="19">Fulham</option>
+                                <option value="20">Huddersfield</option>
+                            </select>
+                        </div>
+
+
+                        <div class="input-field col s12">
+                            <select id="PL_A" class="custom-select">
+                                <option value="" disabled selected>Away Team</option>
+                                <option value="1">Liverpool</option>
+                                <option value="2">Manchester City</option>
+                                <option value="3">Tottenham</option>
+                                <option value="4">Manchester United</option>
+                                <option value="5">Arsenal</option>
+                                <option value="6">Chelsea</option>
+                                <option value="7">Wolves</option>
+                                <option value="8">Watford</option>
+                                <option value="9">WestHam</option>
+                                <option value="10">Everton</option>
+                                <option value="11">Leicester City</option>
+                                <option value="12">Bournemouth</option>
+                                <option value="13">Crystal Palace</option>
+                                <option value="14">Newcastle United</option>
+                                <option value="15">Brighton</option>
+                                <option value="16">Burnley</option>
+                                <option value="17">Southampton</option>
+                                <option value="18">Cardiff City</option>
+                                <option value="19">Fulham</option>
+                                <option value="20">Huddersfield</option>
+                            </select>
+                        </div>
+                        <button id="England_btn" type="button" class="btn btn-primary btn-sm">Predict</button>
+                        <div id = "plRing" class="lds-ring"><div></div><div></div><div></div><div></div></div>
+
+
+                    </div>
+                </div>
+
+                <div class="col-12 border-bottom py-5" data-aos="fade" data-aos-delay="300">
+                    <div class="row align-items-stretch">
+                        <div class="col-md-9">
+
+                            <div class="container">
+                                <div class="row align-items-center" >
+                                    {#                                    <h5 class="d-block mb-4" data-aos="fade-up" data-aos-delay="200">Prediction football games</h5>#}
+
+                                </div>
+
+                            </div>
+
+                            <canvas id="England_chart"></canvas>
+                        </div>
+
+                    </div>
+
+                </div>
+
+
+                <div class="col-12 border-bottom py-5" data-aos="fade" data-aos-delay="600">
+                    <div class="row align-items-stretch">
+                        <div id="spain" class="col-lg-11 mt-9 pl-lg-1" data-aos="fade-up" data-aos-delay="300">
+                            <img src="{% static 'images/Spanish leauge.jpg' %}" alt="Image" class="img-fluid"
+                                 align="right">
+                        </div>
+                    </div>
+
+
+                    <div class="row align-items-stretch program">
+                        <div class="col-12 border-top border-bottom py-5" data-aos="fade" data-aos-delay="200">
+                            <div class="row align-items-stretch">
+                                <div class="input-field col s12">
+                                    <select id="BBVA_H" class="custom-select">
+                                        <option value="" disabled selected>Home Team</option>
+                                        <option value="1">Barcelona</option>
+                                        <option value="2">Atletico Madrid</option>
+                                        <option value="3">Real Madrid</option>
+                                        <option value="4">Getafe</option>
+                                        <option value="5">Alaves</option>
+                                        <option value="6">Sevilla</option>
+                                        <option value="7">Valencia</option>
+                                        <option value="8">Betis</option>
+                                        <option value="9">Real Sociedad</option>
+                                        <option value="10">Eibar</option>
+                                        <option value="11">Leganes</option>
+                                        <option value="12">Athletic Club</option>
+                                        <option value="13">Espanyol</option>
+                                        <option value="14">Girona</option>
+                                        <option value="15">Levante</option>
+                                        <option value="16">Real Valladolid</option>
+                                        <option value="17">Celta de Vigo</option>
+                                        <option value="18">Villarreal</option>
+                                        <option value="19">Rayo Vallecano</option>
+                                        <option value="20">Huesca</option>
+                                    </select>
+                                </div>
+
+
+                                <div class="input-field col s12">
+                                    <select id="BBVA_A" class="custom-select">
+                                        <option value="" disabled selected>Away Team</option>
+                                        <option value="1">Barcelona</option>
+                                        <option value="2">Atletico Madrid</option>
+                                        <option value="3">Real Madrid</option>
+                                        <option value="4">Getafe</option>
+                                        <option value="5">Alaves</option>
+                                        <option value="6">Sevilla</option>
+                                        <option value="7">Valencia</option>
+                                        <option value="8">Betis</option>
+                                        <option value="9">Real Sociedad</option>
+                                        <option value="10">Eibar</option>
+                                        <option value="11">Leganes</option>
+                                        <option value="12">Athletic Club</option>
+                                        <option value="13">Espanyol</option>
+                                        <option value="14">Girona</option>
+                                        <option value="15">Levante</option>
+                                        <option value="16">Real Valladolid</option>
+                                        <option value="17">Celta de Vigo</option>
+                                        <option value="18">Villarreal</option>
+                                        <option value="19">Rayo Vallecano</option>
+                                        <option value="20">Huesca</option>
+                                    </select>
+                                </div>
+
+                                <button id="Spain_btn" type="button" class="btn btn-primary btn-sm">Predict</button>
+                                <div id = "bbvaRing" class="lds-ring"><div></div><div></div><div></div><div></div></div>
+
+
+
+                                <div class="col-12 border-bottom py-5" data-aos="fade" data-aos-delay="300">
+                                    <div class="row align-items-stretch">
+                                        <div class="col-md-9">
+
+                                            <div class="container">
+                                                <div class="row align-items-center">
+                                                    <h5 class="d-block mb-4" data-aos="fade-up" data-aos-delay="200">Prediction football games</h5>
+                                                </div>
+                                            </div>
+                                            <canvas id="Spain_chart"></canvas>
+                                        </div>
+                                    </div>
+                                </div>
+
+
+                                <div class="col-12 border-bottom py-5" data-aos="fade" data-aos-delay="600">
+                                    <div class="row align-items-stretch">
+                                        <div id="Italy" class="col-lg-11 mt-9 pl-lg-1" data-aos="fade-up"
+                                             data-aos-delay="300">
+                                            <img src="{% static 'images/serie A.jpg' %}" alt="Image" class="img-fluid"
+                                                 align="right">
+                                        </div>
+                                    </div>
+
+
+                                    <div class="row align-items-stretch program">
+                                        <div class="col-12 border-top border-bottom py-5" data-aos="fade"
+                                             data-aos-delay="200">
+
+                                            <div class="row align-items-stretch">
+                                                <div class="input-field col s12">
+                                                    <select id = "SERIE_H" class="custom-select">
+                                                        <option value="0" disabled selected>Home Team</option>
+                                                        <option value="1">Juventus</option>
+                                                        <option value="2">Napoli</option>
+                                                        <option value="3">Milan</option>
+                                                        <option value="4">Inter</option>
+                                                        <option value="5">Roma</option>
+                                                        <option value="6">Lazio</option>
+                                                        <option value="7"> Atalanta</option>
+                                                        <option value="8">Torino</option>
+                                                        <option value="9">Sampdoria</option>
+                                                        <option value="10">Fiorentina</option>
+                                                        <option value="11">Sassuolo</option>
+                                                        <option value="12">Genoa</option>
+                                                        <option value="13">Parma</option>
+                                                        <option value="14">Cagliari</option>
+                                                        <option value="15">Udinese</option>
+                                                        <option value="16">SPAL</option>
+                                                        <option value="17">Empoli</option>
+                                                        <option value="18">Bologna</option>
+                                                        <option value="19">Frosinone</option>
+                                                        <option value="20">Chievo</option>
+                                                    </select>
+                                                </div>
+
+
+                                                <div class="input-field col s12">
+                                                    <select id = "SERIE_A" class="custom-select">
+                                                        <option value="0" disabled selected>Away Team</option>
+                                                        <option value="1">Juventus</option>
+                                                        <option value="2">Napoli</option>
+                                                        <option value="3">Milan</option>
+                                                        <option value="4">Inter</option>
+                                                        <option value="5">Roma</option>
+                                                        <option value="6">Lazio</option>
+                                                        <option value="7"> Atalanta</option>
+                                                        <option value="8">Torino</option>
+                                                        <option value="9">Sampdoria</option>
+                                                        <option value="10">Fiorentina</option>
+                                                        <option value="11">Sassuolo</option>
+                                                        <option value="12">Genoa</option>
+                                                        <option value="13">Parma</option>
+                                                        <option value="14">Cagliari</option>
+                                                        <option value="15">Udinese</option>
+                                                        <option value="16">SPAL</option>
+                                                        <option value="17">Empoli</option>
+                                                        <option value="18">Bologna</option>
+                                                        <option value="19">Frosinone</option>
+                                                        <option value="20">Chievo</option>
+                                                    </select>
+                                                </div>
+
+                                                <button id="Italy_btn" type="button" class="btn btn-primary btn-sm">Predict</button>
+                                                <div id = "serieARing" class="lds-ring"><div></div><div></div><div></div><div></div></div>
+
+
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-12 border-bottom py-5" data-aos="fade" data-aos-delay="300">
+                                        <div class="row align-items-stretch">
+                                            <div class="col-md-9">
+
+                                                <div class="container">
+                                                    <div class="row align-items-center">
+                                                        <h5 class="d-block mb-4" data-aos="fade-up" data-aos-delay="200">Prediction football games</h5>
+                                                    </div>
+                                                </div>
+                                                <canvas id="Italy_chart"></canvas>
+
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <div class="col-12 border-bottom py-5" data-aos="fade" data-aos-delay="600">
+                                    <div class="row align-items-stretch">
+                                        <div id="Germany" class="col-lg-11 mt-9 pl-lg-1" data-aos="fade-up"
+                                             data-aos-delay="300">
+                                            <img src="{% static 'images/germany.jpg' %}" alt="Image" class="img-fluid"
+                                                 align="right">
+                                        </div>
+                                    </div>
+
+
+                                    <div class="row align-items-stretch program">
+                                        <div class="col-12 border-top border-bottom py-5" data-aos="fade"
+                                             data-aos-delay="200">
+
+
+
+                                            <div class="row align-items-stretch">
+                                                <div class="input-field col s12">
+                                                    <select id = "BUNDESLIGA_H" class="custom-select">
+                                                        <option value="" disabled selected>Home Team</option>
+                                                        <option value="1">Borussia Dortmund</option>
+                                                        <option value="2">Bayern München</option>
+                                                        <option value="3">RB Leipzig</option>
+                                                        <option value="4">Borussia Monchengladbach</option>
+                                                        <option value="5">Eintracht Frankfurt</option>
+                                                        <option value="6">Bayer 04 Leverkusen</option>
+                                                        <option value="7"> VfL Wolfsburg</option>
+                                                        <option value="8">Hertha Berlin</option>
+                                                        <option value="9">TSG 1899 Hoffenheim</option>
+                                                        <option value="10">Werder Bremen</option>
+                                                        <option value="11">Fortuna Dusseldorf</option>
+                                                        <option value="12">FSV Mainz 05</option>
+                                                        <option value="13">Freiburg</option>
+                                                        <option value="14">Schalke 04</option>
+                                                        <option value="15">Augsburg</option>
+                                                        <option value="16">Stuttgart</option>
+                                                        <option value="17"> Hannover 96</option>
+                                                        <option value="18"> Nürnberg</option>
+                                                    </select>
+                                                </div>
+
+
+                                                <div class="input-field col s12">
+                                                    <select id = "BUNDESLIGA_A" class="custom-select">
+                                                        <option value="" disabled selected>Away Team</option>
+                                                        <option value="1">Borussia Dortmund</option>
+                                                        <option value="2">Bayern München</option>
+                                                        <option value="3">RB Leipzig</option>
+                                                        <option value="4">Borussia Monchengladbach</option>
+                                                        <option value="5">Eintracht Frankfurt</option>
+                                                        <option value="6">Bayer 04 Leverkusen</option>
+                                                        <option value="7"> VfL Wolfsburg</option>
+                                                        <option value="8">Hertha Berlin</option>
+                                                        <option value="9">TSG 1899 Hoffenheim</option>
+                                                        <option value="10">Werder Bremen</option>
+                                                        <option value="11">Fortuna Dusseldorf</option>
+                                                        <option value="12">FSV Mainz 05</option>
+                                                        <option value="13">Freiburg</option>
+                                                        <option value="14">Schalke 04</option>
+                                                        <option value="15">Augsburg</option>
+                                                        <option value="16">Stuttgart</option>
+                                                        <option value="17"> Hannover 96</option>
+                                                        <option value="18"> Nürnberg</option>
+                                                    </select>
+                                                </div>
+
+                                                <button id="Germany_btn" type="button" class="btn btn-primary btn-sm">Predict</button>
+                                                <div id = "bundesLeaugeRing" class="lds-ring"><div></div><div></div><div></div><div></div></div>
+
+
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-12 border-bottom py-5" data-aos="fade" data-aos-delay="300">
+                                        <div class="row align-items-stretch">
+                                            <div class="col-md-9">
+
+                                                <div class="container">
+                                                    <div class="row align-items-center">
+                                                        <h5 class="d-block mb-4" data-aos="fade-up" data-aos-delay="200">Prediction football games</h5>
+                                                    </div>
+                                                </div>
+                                                <canvas id="Germany_chart"></canvas>
+
+                                            </div>
+                                        </div>
+                                    </div>
+
+
+                                    <footer class="site-footer">
+                                        <div class="container">
+                                            <div class="row mb-5">
+                                                <div class="col-md-4">
+                                                    <h2 class="footer-heading text-uppercase mb-4">About</h2>
+                                                    <p>Research</p>
+                                                </div>
+                                                <div class="col-md-3 ml-auto">
+                                                    <h2 class="footer-heading text-uppercase mb-4">Quick Links</h2>
+                                                    <ul class="list-unstyled">
+                                                        <li><a href="#aboutUsPage" class="sliding-link">About Us</a>
+                                                        </li>
+                                                        <li><a href="#England" class="sliding-link">England</a></li>
+                                                        <li><a href="#spain" class="sliding-link">Spain</a></li>
+                                                        <li><a href="#Italy" class="sliding-link">Italy</a></li>
+                                                        <li><a href="#Germany" class="sliding-link">Germany</a></li>
+
+                                                    </ul>
+                                                </div>
+                                                <div class="col-md-4">
+                                                    <h2 class="footer-heading text-uppercase mb-4">Connect with Us</h2>
+                                                    <p>
+                                                        <a href="#" class="p-2 pl-0"><span class="icon-facebook"></span></a>
+                                                        <a href="#" class="p-2"><span class="icon-twitter"></span></a>
+                                                        <a href="#" class="p-2"><span class="icon-youtube"></span></a>
+                                                        <a href="#" class="p-2"><span class="icon-instagram"></span></a>
+                                                    </p>
+                                                </div>
+                                            </div>
+                                            <div class="row">
+
+                                                <div class="col-md-12 text-center">
+                                                    <div class="border-top pt-5">
+                                                        <p>
+                                                            <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
+                                                            Copyright &copy;
+                                                            <script>document.write(new Date().getFullYear());</script>
+                                                            All rights reserved.
+                                                            <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
+                                                        </p>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </footer>
+
+                                </div>
+
+                                {% load static %}
+                                <script type="text/javascript" src="{% static 'js/jquery-3.3.1.min.js' %}"></script>
+                                <script type="text/javascript" src="{% static 'js/jquery-migrate-3.0.1.min.js' %}"></script>
+                                <script type="text/javascript" src="{% static 'js/jquery-ui.js' %}"></script>
+                                <script type="text/javascript" src="{% static 'js/popper.min.js' %}"></script>
+                                <script type="text/javascript" src="{% static 'js/bootstrap.min.js' %}"></script>
+                                <script type="text/javascript" src="{% static 'js/owl.carousel.min.js' %}"></script>
+                                <script type="text/javascript" src="{% static 'js/jquery.stellar.min.js' %}"></script>
+                                <script type="text/javascript" src="{% static 'js/jquery.countdown.min.js' %}"></script>
+                                <script type="text/javascript" src="{% static 'js/jquery.magnific-popup.min.js' %}"></script>
+                                <script type="text/javascript" src="{% static 'js/bootstrap-datepicker.min.js' %}"></script>
+                                <script type="text/javascript" src="{% static 'js/aos.js' %}"></script>
+                                <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.7.3/Chart.min.js"></script>
+                                <script src="{% static 'js/main.js' %}"></script>
+                                <script src="{% static 'js/pie.js' %}"></script>
+                                <script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
+
+
+                                <script>
+                                    $(".sliding-link").click(function (e) {
+                                        e.preventDefault();
+                                        var aid = $(this).attr("href");
+                                        $('html,body').animate({scrollTop: $(aid).offset().top}, 'slow');
+                                    });
+                                    $(".dropdown-menu dropdown-menu-right").click(function () {
+                                        $(".btn:first-child").html($(this).text() + ' <span class="caret"></span>');
+                                    });
+                                </script>
+
+
+</body>
+</html>
+

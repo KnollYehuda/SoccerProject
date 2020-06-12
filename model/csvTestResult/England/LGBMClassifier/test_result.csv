@@ -1,0 +1,3 @@
+boosting_type,learning_rate,n_estimators,objective,n_games,acc
+gbdt,0.1,100,lambdarank,1,0.4875
+gbdt,0.1,100,lambdarank,1,0.4875

@@ -1,0 +1,5 @@
+n_neighbor,weight,algo,power,n_games,accurate_percentage
+1,uniform,ball_tree,1,1,0.41875
+1,uniform,ball_tree,1,1,0.41875
+1,uniform,ball_tree,1,1,0.3971631205673759
+1,uniform,ball_tree,1,1,0.3971631205673759

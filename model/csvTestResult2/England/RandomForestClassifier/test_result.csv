@@ -1,0 +1,3 @@
+n_estimators,criterion,bootstrap,warm_start,n_games,acc
+7,gini,True,True,1,0.49375
+7,gini,True,True,1,0.49375

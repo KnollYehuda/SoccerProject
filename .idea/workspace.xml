@@ -1,0 +1,1535 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d76ec02b-ff4b-4e61-ad7c-0bdb782a8052" name="Default Changelist" comment="Amit - Update Pictures">
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HttpHandlers/HttpHandler.py" beforeDir="false" afterPath="$PROJECT_DIR$/HttpHandlers/HttpHandler.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/CustomGridSearch.py" beforeDir="false" afterPath="$PROJECT_DIR$/model/CustomGridSearch.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/dataManger.py" beforeDir="false" afterPath="$PROJECT_DIR$/model/dataManger.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/model_exp.py" beforeDir="false" afterPath="$PROJECT_DIR$/model/model_exp.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/model_server.py" beforeDir="false" afterPath="$PROJECT_DIR$/model/model_server.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/mongoDbLogger.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/treePic/england tree/tree.dot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/treePic/england tree/tree.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/treePic/england tree/tree0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/treePic/england tree/tree1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/treePic/england tree/tree2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/treePic/england tree/tree3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/treePic/england tree/tree4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/treePic/england tree/tree5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/treePic/england tree/tree6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/treePic/england tree/tree7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/treePic/england tree/tree8.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/treePic/england tree/tree9.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/treePic/germany tree/tree.dot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/treePic/germany tree/tree.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/treePic/germany tree/tree0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/treePic/germany tree/tree1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/treePic/germany tree/tree2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/treePic/germany tree/tree3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/treePic/germany tree/tree4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/treePic/germany tree/tree5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/treePic/germany tree/tree6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/treePic/germany tree/tree7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/treePic/germany tree/tree8.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/treePic/germany tree/tree9.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/treePic/italy_tree/tree.dot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/treePic/italy_tree/tree.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/treePic/italy_tree/tree0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/treePic/italy_tree/tree1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/treePic/italy_tree/tree2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/treePic/italy_tree/tree3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/treePic/italy_tree/tree4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/treePic/italy_tree/tree5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/treePic/italy_tree/tree6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/treePic/italy_tree/tree7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/treePic/italy_tree/tree8.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/treePic/italy_tree/tree9.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/treePic/tree_sp_model_0,475.joblib.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/soccerUI/pages/templates/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/soccerUI/pages/templates/base.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/soccerUI/soccerUIMoudle/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/soccerUI/soccerUIMoudle/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/soccerUI/static/scss/_site-base.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/soccerUI/static/scss/_site-blocks.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/soccerUI/static/scss/_site-navbar.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/soccerUI/static/scss/bootstrap/_alert.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/soccerUI/static/scss/bootstrap/_badge.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/soccerUI/static/scss/bootstrap/_breadcrumb.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/soccerUI/static/scss/bootstrap/_button-group.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/soccerUI/static/scss/bootstrap/_buttons.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/soccerUI/static/scss/bootstrap/_card.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/soccerUI/static/scss/bootstrap/_carousel.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/soccerUI/static/scss/bootstrap/_close.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/soccerUI/static/scss/bootstrap/_code.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/soccerUI/static/scss/bootstrap/_custom-forms.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/soccerUI/static/scss/bootstrap/_dropdown.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/soccerUI/static/scss/bootstrap/_forms.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/soccerUI/static/scss/bootstrap/_functions.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/soccerUI/static/scss/bootstrap/_grid.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/soccerUI/static/scss/bootstrap/_images.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/soccerUI/static/scss/bootstrap/_input-group.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/soccerUI/static/scss/bootstrap/_jumbotron.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/soccerUI/static/scss/bootstrap/_list-group.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/soccerUI/static/scss/bootstrap/_media.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/soccerUI/static/scss/bootstrap/_mixins.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/soccerUI/static/scss/bootstrap/_modal.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/soccerUI/static/scss/bootstrap/_nav.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/soccerUI/static/scss/bootstrap/_navbar.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/soccerUI/static/scss/bootstrap/_pagination.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/soccerUI/static/scss/bootstrap/_popover.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/soccerUI/static/scss/bootstrap/_print.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/soccerUI/static/scss/bootstrap/_progress.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/soccerUI/static/scss/bootstrap/_reboot.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/soccerUI/static/scss/bootstrap/_root.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/soccerUI/static/scss/bootstrap/_tables.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/soccerUI/static/scss/bootstrap/_tooltip.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/soccerUI/static/scss/bootstrap/_transitions.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/soccerUI/static/scss/bootstrap/_type.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/soccerUI/static/scss/bootstrap/_utilities.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/soccerUI/static/scss/bootstrap/_variables.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/soccerUI/static/scss/bootstrap/bootstrap-grid.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/soccerUI/static/scss/bootstrap/bootstrap-reboot.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/soccerUI/static/scss/bootstrap/bootstrap.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/soccerUI/static/scss/bootstrap/mixins/_alert.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/soccerUI/static/scss/bootstrap/mixins/_background-variant.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/soccerUI/static/scss/bootstrap/mixins/_badge.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/soccerUI/static/scss/bootstrap/mixins/_border-radius.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/soccerUI/static/scss/bootstrap/mixins/_box-shadow.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/soccerUI/static/scss/bootstrap/mixins/_breakpoints.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/soccerUI/static/scss/bootstrap/mixins/_buttons.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/soccerUI/static/scss/bootstrap/mixins/_caret.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/soccerUI/static/scss/bootstrap/mixins/_clearfix.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/soccerUI/static/scss/bootstrap/mixins/_float.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/soccerUI/static/scss/bootstrap/mixins/_forms.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/soccerUI/static/scss/bootstrap/mixins/_gradients.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/soccerUI/static/scss/bootstrap/mixins/_grid-framework.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/soccerUI/static/scss/bootstrap/mixins/_grid.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/soccerUI/static/scss/bootstrap/mixins/_hover.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/soccerUI/static/scss/bootstrap/mixins/_image.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/soccerUI/static/scss/bootstrap/mixins/_list-group.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/soccerUI/static/scss/bootstrap/mixins/_lists.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/soccerUI/static/scss/bootstrap/mixins/_nav-divider.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/soccerUI/static/scss/bootstrap/mixins/_pagination.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/soccerUI/static/scss/bootstrap/mixins/_reset-text.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/soccerUI/static/scss/bootstrap/mixins/_resize.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/soccerUI/static/scss/bootstrap/mixins/_screen-reader.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/soccerUI/static/scss/bootstrap/mixins/_size.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/soccerUI/static/scss/bootstrap/mixins/_table-row.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/soccerUI/static/scss/bootstrap/mixins/_text-emphasis.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/soccerUI/static/scss/bootstrap/mixins/_text-hide.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/soccerUI/static/scss/bootstrap/mixins/_text-truncate.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/soccerUI/static/scss/bootstrap/mixins/_transition.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/soccerUI/static/scss/bootstrap/mixins/_visibility.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/soccerUI/static/scss/bootstrap/utilities/_align.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/soccerUI/static/scss/bootstrap/utilities/_background.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/soccerUI/static/scss/bootstrap/utilities/_borders.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/soccerUI/static/scss/bootstrap/utilities/_clearfix.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/soccerUI/static/scss/bootstrap/utilities/_display.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/soccerUI/static/scss/bootstrap/utilities/_embed.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/soccerUI/static/scss/bootstrap/utilities/_flex.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/soccerUI/static/scss/bootstrap/utilities/_float.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/soccerUI/static/scss/bootstrap/utilities/_position.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/soccerUI/static/scss/bootstrap/utilities/_screenreaders.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/soccerUI/static/scss/bootstrap/utilities/_shadows.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/soccerUI/static/scss/bootstrap/utilities/_sizing.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/soccerUI/static/scss/bootstrap/utilities/_spacing.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/soccerUI/static/scss/bootstrap/utilities/_text.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/soccerUI/static/scss/bootstrap/utilities/_visibility.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/soccerUI/static/scss/style.scss" beforeDir="false" />
+    </list>
+    <list id="ad462574-7a21-4a5c-a546-7244d2d17162" name="do not commit change list" comment="do not commit change list" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/SoccerProject$MongoDb.coverage" NAME="MongoDb Coverage Results" MODIFIED="1544113138921" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DataBase" />
+    <SUITE FILE_PATH="coverage/SoccerProject$dbCloud.coverage" NAME="dbCloud Coverage Results" MODIFIED="1544106518833" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mongoDB_Integrate" />
+    <SUITE FILE_PATH="coverage/SoccerProject$settings.coverage" NAME="settings Coverage Results" MODIFIED="1544691978638" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/djangoSoccerUI/djangoSoccerUIApp" />
+    <SUITE FILE_PATH="coverage/SoccerProject$__init__.coverage" NAME="__init__ Coverage Results" MODIFIED="1544692141925" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/djangoSoccerUI/djangoSoccerUIApp" />
+    <SUITE FILE_PATH="coverage/SoccerProject$mongoDB_API__1_.coverage" NAME="mongoDB_API (1) Coverage Results" MODIFIED="1544704148069" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/succer_UI/succer_UI" />
+    <SUITE FILE_PATH="coverage/SoccerProject$HttpHandler.coverage" NAME="HttpHandler Coverage Results" MODIFIED="1544790417270" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/soccerUI/HttpHandlers" />
+    <SUITE FILE_PATH="coverage/SoccerProject$logger.coverage" NAME="logger Coverage Results" MODIFIED="1544182788393" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Logger" />
+    <SUITE FILE_PATH="coverage/SoccerProject$Test__djangoSoccerUIApp.coverage" NAME="Test: djangoSoccerUIApp Coverage Results" MODIFIED="1544697882088" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/SoccerProject$urls.coverage" NAME="urls Coverage Results" MODIFIED="1544691981373" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/djangoSoccerUI/djangoSoccerUIApp" />
+    <SUITE FILE_PATH="coverage/SoccerProject$logger_logic.coverage" NAME="logger_logic Coverage Results" MODIFIED="1544184152681" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Logger" />
+    <SUITE FILE_PATH="coverage/SoccerProject$manage__1_.coverage" NAME="manage (1) Coverage Results" MODIFIED="1544725145123" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/djangoProject" />
+    <SUITE FILE_PATH="coverage/SoccerProject$__init____1_.coverage" NAME="__init__ (1) Coverage Results" MODIFIED="1544443052222" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DataParser" />
+    <SUITE FILE_PATH="coverage/SoccerProject$mongoDB_API.coverage" NAME="mongoDB_API Coverage Results" MODIFIED="1544704792053" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/succer_UI/succer_UI" />
+    <SUITE FILE_PATH="coverage/SoccerProject$mongoDB_API__3_.coverage" NAME="mongoDB_API (3) Coverage Results" MODIFIED="1544688251848" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/djangoSoccerUI/djangoSoccerUI" />
+    <SUITE FILE_PATH="coverage/SoccerProject$Test__SoccerUI.coverage" NAME="Test: SoccerUI Coverage Results" MODIFIED="1544694627956" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/djangoSoccerUI/djangoSoccerUIApp" />
+    <SUITE FILE_PATH="coverage/SoccerProject$manage.coverage" NAME="manage Coverage Results" MODIFIED="1553781060164" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/soccerUI" />
+    <SUITE FILE_PATH="coverage/SoccerProject$uploadRWfile.coverage" NAME="uploadRWfile Coverage Results" MODIFIED="1551788828857" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/soccerUI" />
+    <SUITE FILE_PATH="coverage/SoccerProject$Parser.coverage" NAME="Parser Coverage Results" MODIFIED="1544452081575" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DataParser" />
+    <SUITE FILE_PATH="coverage/SoccerProject$mongoDB_API__2_.coverage" NAME="mongoDB_API (2) Coverage Results" MODIFIED="1544608340047" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/djangoSoccerProject/djangoSoccerProject" />
+    <SUITE FILE_PATH="coverage/SoccerProject$main.coverage" NAME="main Coverage Results" MODIFIED="1544695501440" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Logger" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="db" type="feb32156:DbDataSourceImpl" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;#import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;#if 'setup' in dir(django): django.setup()&#10;#import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" module-name="SoccerProject" sdk-home="C:\Users\Amit\Anaconda3\python.exe" working-directory="$PROJECT_DIR$/djangoSoccerUI/djangoSoccerUIApp">
+    <option name="useSoftWraps" value="true" />
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;#import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;#if 'setup' in dir(django): django.setup()&#10;#import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+    <option name="mySdkHome" value="C:\Users\Amit\Anaconda3\python.exe" />
+    <option name="myModuleName" value="SoccerProject" />
+    <option name="myWorkingDirectory" value="$PROJECT_DIR$/djangoSoccerUI/djangoSoccerUIApp" />
+  </component>
+  <component name="ErrorTreeViewConfiguration">
+    <option name="autoscrollToSource" value="true" />
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="true" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="SoccerProject" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/model/model_server.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="28" selection-start-line="2" selection-start-column="28" selection-end-line="2" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/soccerUI/HttpHandlers/mongoDB_API.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="281">
+              <caret line="19" column="8" selection-start-line="19" selection-start-column="8" selection-end-line="19" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/model/dataManger.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="425">
+              <caret line="26" column="24" selection-start-line="26" selection-start-column="24" selection-end-line="26" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/soccerUI/__init__.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/soccerUI/manage.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="15" selection-start-line="15" selection-end-line="15" />
+              <folding>
+                <element signature="e#22#31#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="Setup Script" />
+        <option value="HTML File" />
+        <option value="CSS File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>FileD</find>
+      <find>Germany_btn</find>
+      <find>BUNDESLIGA_call</find>
+      <find>navbar</find>
+      <find>manage</find>
+      <find>Jo</find>
+      <find>lgbm</find>
+      <find>order</find>
+      <find>200</find>
+      <find>150</find>
+      <find>csvTestResult/Spain/XGBClassifier</find>
+      <find>d:\a\1\s\python-package\compile\src\boosting\rf.hpp</find>
+      <find>keep_training_booster</find>
+      <find>=true</find>
+      <find>Spain</find>
+      <find>spain_leg</find>
+      <find>400</find>
+      <find>Scout</find>
+      <find>PL_Chart</find>
+      <find>127.0.0.1</find>
+      <find>API</find>
+      <find>pie.js</find>
+      <find>canvas</find>
+      <find>font</find>
+      <find>#EB6864</find>
+      <find>text-primary</find>
+      <find>model server</find>
+      <find>model_server</find>
+      <find>sliding-link</find>
+      <find>fade-right</find>
+    </findStrings>
+    <dirStrings>
+      <dir>C:\Users\Amit\PycharmProjects\SoccerProject\soccerUI</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/soccerUI/pages/templates/about.html" />
+        <option value="$PROJECT_DIR$/soccerUI/pages/templates/germany.html" />
+        <option value="$PROJECT_DIR$/soccerUI/pages/templates/spain.html" />
+        <option value="$PROJECT_DIR$/soccerUI/pages/templates/italy.html" />
+        <option value="$PROJECT_DIR$/soccerUI/pages/templates/research.html" />
+        <option value="$PROJECT_DIR$/soccerUI/soccerUI/urls.py" />
+        <option value="$PROJECT_DIR$/soccerUI/pages/templates/england.html" />
+        <option value="$PROJECT_DIR$/soccerUI/HttpHandlers/HttpHandler.py" />
+        <option value="$PROJECT_DIR$/soccerUI/pages/templates/about-me.html" />
+        <option value="$PROJECT_DIR$/soccerUI/pages/templates/about_me.html" />
+        <option value="$PROJECT_DIR$/soccerUI/pages/templates/index.html" />
+        <option value="$PROJECT_DIR$/soccerUI/pages/templates/help.html" />
+        <option value="$PROJECT_DIR$/soccerUI/pages/templates/aboutUs.html" />
+        <option value="$PROJECT_DIR$/soccerUI/pages/templates/blog.html" />
+        <option value="$PROJECT_DIR$/soccerUI/pages/views.py" />
+        <option value="$PROJECT_DIR$/soccerUI/static/js/Chart.bundle.min.js" />
+        <option value="$PROJECT_DIR$/soccerUI/pages/templates/pie.js" />
+        <option value="$PROJECT_DIR$/soccerUI/static/css/pie.css" />
+        <option value="$PROJECT_DIR$/soccerUI/static/js/pieGoogle.js" />
+        <option value="$PROJECT_DIR$/soccerUI/static/css/pieJS.css" />
+        <option value="$PROJECT_DIR$/soccerUI/static/js/chartJS.js" />
+        <option value="$PROJECT_DIR$/soccerUI/static/js/Chart.min.js" />
+        <option value="$PROJECT_DIR$/soccerUI/pages/urls.py" />
+        <option value="$PROJECT_DIR$/soccerUI/soccerUIMoudle/urls.py" />
+        <option value="$PROJECT_DIR$/Logger/main.py" />
+        <option value="$PROJECT_DIR$/setup.py" />
+        <option value="$PROJECT_DIR$/soccerUI/pages/templates/base1.html" />
+        <option value="$PROJECT_DIR$/soccerUI/manage.py" />
+        <option value="$PROJECT_DIR$/model/main.py" />
+        <option value="$PROJECT_DIR$/model/soccer_predict_model.py" />
+        <option value="$PROJECT_DIR$/soccerUI/cors.py" />
+        <option value="$PROJECT_DIR$/soccerUI/HttpHandlers/mongoDB_API.py" />
+        <option value="$PROJECT_DIR$/model/Data_Predict_Organizer.py" />
+        <option value="$PROJECT_DIR$/soccerUI/static/css/style.css" />
+        <option value="$USER_HOME$/Anaconda3/envs/ML/Lib/site-packages/notebook/static/style/style.min.css" />
+        <option value="$PROJECT_DIR$/soccerUI/static/scss/_site-blocks.scss" />
+        <option value="$PROJECT_DIR$/soccerUI/static/css/loader.css" />
+        <option value="$PROJECT_DIR$/model/teams_mapper.py" />
+        <option value="$PROJECT_DIR$/model/Calc.py" />
+        <option value="$PROJECT_DIR$/model/CustomGridSearch2.py" />
+        <option value="$PROJECT_DIR$/model/randomForestGraph.py" />
+        <option value="$PROJECT_DIR$/model/CustomGridSearch.py" />
+        <option value="$PROJECT_DIR$/soccerUI/static/scss/_site-navbar.scss" />
+        <option value="$PROJECT_DIR$/soccerUI/soccerUIMoudle/settings.py" />
+        <option value="$PROJECT_DIR$/soccerUI/static/js/pie.js" />
+        <option value="$PROJECT_DIR$/soccerUI/pages/templates/base.html" />
+        <option value="$PROJECT_DIR$/model/model_exp.py" />
+        <option value="$PROJECT_DIR$/requirements.txt" />
+        <option value="$PROJECT_DIR$/HttpHandlers/HttpHandler.py" />
+        <option value="$PROJECT_DIR$/model/dataManger.py" />
+        <option value="$PROJECT_DIR$/model/model_server.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="1912" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <autoscrollToSource ProjectPane="true" />
+      <autoscrollFromSource ProjectPane="true" />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope">
+        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
+          <expand>
+            <path>
+              <item name="SoccerProject" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="SoccerProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SoccerProject" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SoccerProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SoccerProject" type="462c0819:PsiDirectoryNode" />
+              <item name="check" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SoccerProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SoccerProject" type="462c0819:PsiDirectoryNode" />
+              <item name="DataParser" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SoccerProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SoccerProject" type="462c0819:PsiDirectoryNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SoccerProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SoccerProject" type="462c0819:PsiDirectoryNode" />
+              <item name="soccerUI" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SoccerProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SoccerProject" type="462c0819:PsiDirectoryNode" />
+              <item name="soccerUI" type="462c0819:PsiDirectoryNode" />
+              <item name="HttpHandlers" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SoccerProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
+            </path>
+            <path>
+              <item name="SoccerProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
+              <item name="PyCharm Consoles" type="d62648e6:ScratchProjectViewPane$MyRootNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="two.files.diff.last.used.file" value="$PROJECT_DIR$/soccerUI/pages/templates/base.html" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings module-name="SoccerProject" sdk-home="C:\Users\Amit\Anaconda3\python.exe" working-directory="$PROJECT_DIR$/djangoSoccerUI">
+        <option name="mySdkHome" value="C:\Users\Amit\Anaconda3\python.exe" />
+        <option name="myModuleName" value="SoccerProject" />
+        <option name="myWorkingDirectory" value="$PROJECT_DIR$/djangoSoccerUI" />
+      </console-settings>
+    </option>
+    <option name="myShowDebugConsoleByDefault" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Amit\PycharmProjects\SoccerProject\soccerUI\static\js" />
+      <recent name="C:\Users\Amit\PycharmProjects\SoccerProject\soccerUI" />
+      <recent name="C:\Users\Amit\PycharmProjects\SoccerProject\soccerUI\soccerUIMoudle" />
+      <recent name="C:\Users\Amit\PycharmProjects\SoccerProject\soccerUI\static" />
+      <recent name="C:\Users\Amit\PycharmProjects\SoccerProject\soccerUI\soccerUI\static" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Amit\PycharmProjects\SoccerProject\soccerUI\static\js" />
+      <recent name="C:\Users\Amit\PycharmProjects\SoccerProject\soccerUI\static\img" />
+      <recent name="C:\Users\Amit\PycharmProjects\SoccerProject\soccerUI" />
+      <recent name="C:\Users\Amit\PycharmProjects\SoccerProject\soccerUI\pages\templates" />
+      <recent name="C:\Users\Amit\PycharmProjects\soccer_project\soccer_project" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.model_server">
+    <configuration default="true" type="DjangoTestsConfigurationType">
+      <module name="djangoSoccerProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\Amit\Anaconda3\python.exe" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="TARGET" value="" />
+      <option name="SETTINGS_FILE" value="" />
+      <option name="CUSTOM_SETTINGS" value="false" />
+      <option name="USE_OPTIONS" value="false" />
+      <option name="OPTIONS" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="CustomGridSearch" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="SoccerProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/model" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/model/CustomGridSearch.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="CustomGridSearch2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="SoccerProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/model" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/model/CustomGridSearch2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="manage" type="PythonConfigurationType" factoryName="Python">
+      <module name="SoccerProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/soccerUI" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/soccerUI/manage.py" />
+      <option name="PARAMETERS" value="runserver" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="model_server" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="SoccerProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/model" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/model/model_server.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="randomForestGraph" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="SoccerProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/model" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/model/randomForestGraph.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="Python.DjangoServer" factoryName="Django server">
+      <module name="djangoSoccerProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\Amit\Anaconda3\python.exe" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="http://127.0.0.1:8000/" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest in model_exp.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="SoccerProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/model" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/model/model_exp.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.manage" />
+      <item itemvalue="Python.model_server" />
+      <item itemvalue="Python.CustomGridSearch" />
+      <item itemvalue="Python.CustomGridSearch2" />
+      <item itemvalue="Python.randomForestGraph" />
+      <item itemvalue="Python tests.pytest in model_exp.py" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.model_server" />
+        <item itemvalue="Python.randomForestGraph" />
+        <item itemvalue="Python.CustomGridSearch" />
+        <item itemvalue="Python.CustomGridSearch2" />
+        <item itemvalue="Python tests.pytest in model_exp.py" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d76ec02b-ff4b-4e61-ad7c-0bdb782a8052" name="Default Changelist" comment="" />
+      <changelist id="ad462574-7a21-4a5c-a546-7244d2d17162" name="do not commit change list" comment="" />
+      <created>1544082175886</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1544082175886</updated>
+      <workItem from="1544082177193" duration="24358000" />
+      <workItem from="1544442567225" duration="6062000" />
+      <workItem from="1544455404202" duration="6380000" />
+      <workItem from="1544555848611" duration="2203000" />
+      <workItem from="1544607475432" duration="931000" />
+      <workItem from="1544617035346" duration="239000" />
+      <workItem from="1544683600685" duration="13806000" />
+      <workItem from="1544699523825" duration="1050000" />
+      <workItem from="1544700912019" duration="406000" />
+      <workItem from="1544701368063" duration="1413000" />
+      <workItem from="1544703577169" duration="7078000" />
+      <workItem from="1544714092764" duration="95000" />
+      <workItem from="1544714368124" duration="465000" />
+      <workItem from="1544714947367" duration="3515000" />
+      <workItem from="1544719792121" duration="23604000" />
+      <workItem from="1545054526933" duration="2702000" />
+      <workItem from="1545061516824" duration="2334000" />
+      <workItem from="1545068495242" duration="248000" />
+      <workItem from="1545298960498" duration="82000" />
+      <workItem from="1545299099477" duration="3730000" />
+      <workItem from="1545424745296" duration="4284000" />
+      <workItem from="1545469752248" duration="7704000" />
+      <workItem from="1545651290569" duration="1828000" />
+      <workItem from="1545825905654" duration="103000" />
+      <workItem from="1551784819374" duration="1025000" />
+      <workItem from="1551786520434" duration="361000" />
+      <workItem from="1551787199988" duration="1458000" />
+      <workItem from="1551788750890" duration="857000" />
+      <workItem from="1551790091252" duration="3041000" />
+      <workItem from="1551793339650" duration="5837000" />
+      <workItem from="1551802573097" duration="119000" />
+      <workItem from="1551802720027" duration="1201000" />
+      <workItem from="1551804797110" duration="55000" />
+      <workItem from="1551805263436" duration="2227000" />
+      <workItem from="1551860345381" duration="1750000" />
+      <workItem from="1551980623744" duration="632000" />
+      <workItem from="1551983201882" duration="15576000" />
+      <workItem from="1553068207149" duration="1322000" />
+      <workItem from="1553071260632" duration="6364000" />
+      <workItem from="1553103699244" duration="13040000" />
+      <workItem from="1553765266471" duration="1207000" />
+      <workItem from="1553766528669" duration="2057000" />
+      <workItem from="1553768604111" duration="259000" />
+      <workItem from="1553769063940" duration="9442000" />
+      <workItem from="1553853428819" duration="819000" />
+      <workItem from="1553854807746" duration="1129000" />
+      <workItem from="1553856437575" duration="5636000" />
+      <workItem from="1553873977958" duration="532000" />
+      <workItem from="1553951005154" duration="9510000" />
+      <workItem from="1554032929698" duration="476000" />
+      <workItem from="1554033431962" duration="389000" />
+      <workItem from="1554036717140" duration="867000" />
+      <workItem from="1554040168851" duration="1192000" />
+      <workItem from="1554116645933" duration="833000" />
+      <workItem from="1554125857978" duration="715000" />
+      <workItem from="1554873598444" duration="54000" />
+      <workItem from="1554873802291" duration="2253000" />
+      <workItem from="1554879258188" duration="2453000" />
+      <workItem from="1554882201322" duration="137000" />
+      <workItem from="1554885413070" duration="1417000" />
+      <workItem from="1554893708720" duration="1609000" />
+      <workItem from="1554898735338" duration="703000" />
+      <workItem from="1554899624608" duration="1475000" />
+      <workItem from="1554913471805" duration="1892000" />
+      <workItem from="1555498636771" duration="478000" />
+      <workItem from="1555845905994" duration="1524000" />
+      <workItem from="1555848034434" duration="3146000" />
+      <workItem from="1556095604008" duration="2169000" />
+      <workItem from="1556101465464" duration="2701000" />
+      <workItem from="1556104569458" duration="390000" />
+      <workItem from="1556106199224" duration="1216000" />
+      <workItem from="1556107437532" duration="793000" />
+      <workItem from="1556108251697" duration="273000" />
+      <workItem from="1556109981887" duration="3254000" />
+      <workItem from="1556191311348" duration="1863000" />
+      <workItem from="1556194144265" duration="656000" />
+      <workItem from="1556296812708" duration="4241000" />
+      <workItem from="1556312150730" duration="3131000" />
+      <workItem from="1556690659547" duration="9229000" />
+      <workItem from="1556700201486" duration="1937000" />
+      <workItem from="1556801139490" duration="4666000" />
+      <workItem from="1556808833128" duration="622000" />
+      <workItem from="1556959206924" duration="2971000" />
+      <workItem from="1557062832186" duration="5474000" />
+      <workItem from="1557142897218" duration="5501000" />
+      <workItem from="1557316046279" duration="156000" />
+      <workItem from="1557428257757" duration="326000" />
+      <workItem from="1557526829030" duration="9305000" />
+      <workItem from="1557678684460" duration="4073000" />
+      <workItem from="1557912292115" duration="612000" />
+      <workItem from="1558092051067" duration="144000" />
+      <workItem from="1558101946988" duration="12000" />
+      <workItem from="1558104078716" duration="849000" />
+      <workItem from="1558174854734" duration="1089000" />
+      <workItem from="1559136019102" duration="952000" />
+      <workItem from="1559552043514" duration="803000" />
+      <workItem from="1559552917473" duration="20059000" />
+      <workItem from="1559808144952" duration="3054000" />
+      <workItem from="1560244887120" duration="378000" />
+      <workItem from="1560245384402" duration="19000" />
+      <workItem from="1560245519866" duration="1696000" />
+      <workItem from="1560514347570" duration="1948000" />
+      <workItem from="1560662765281" duration="1704000" />
+      <workItem from="1564992640313" duration="3897000" />
+      <workItem from="1566308672763" duration="725000" />
+      <workItem from="1566465846496" duration="1483000" />
+      <workItem from="1566481092487" duration="1228000" />
+      <workItem from="1566545419756" duration="10640000" />
+      <workItem from="1567517685803" duration="9628000" />
+      <workItem from="1568033177367" duration="11130000" />
+      <workItem from="1568289243013" duration="4766000" />
+      <workItem from="1568316673507" duration="1877000" />
+      <workItem from="1568538878182" duration="2548000" />
+      <workItem from="1568548291540" duration="1856000" />
+      <workItem from="1568555256055" duration="4630000" />
+      <workItem from="1568638461572" duration="286000" />
+      <workItem from="1568638806039" duration="4450000" />
+    </task>
+    <task id="LOCAL-00001" summary="Amit checked update">
+      <created>1544082224167</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1544082224167</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Amit checked update">
+      <created>1544082436924</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1544082436924</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Logger object added">
+      <created>1544184592150</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1544184592150</updated>
+    </task>
+    <task id="LOCAL-00004" summary="mongoDB plugin added + localhost mongoDB API">
+      <created>1544463875315</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1544463875316</updated>
+    </task>
+    <task id="LOCAL-00005" summary="mongoDB plugin added + localhost mongoDB API">
+      <created>1544687266963</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1544687266963</updated>
+    </task>
+    <task id="LOCAL-00006" summary="generic logger separator update foe each OS">
+      <created>1544695417897</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1544695417897</updated>
+    </task>
+    <task id="LOCAL-00007" summary=" generic separator for each OS update in the Logger">
+      <created>1544695870356</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1544695870356</updated>
+    </task>
+    <task id="LOCAL-00008" summary="django framework added correctly">
+      <created>1544706026178</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1544706026178</updated>
+    </task>
+    <task id="LOCAL-00009" summary="first pages django web">
+      <created>1544725437488</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1544725437488</updated>
+    </task>
+    <task id="LOCAL-00010" summary="first pages django web">
+      <created>1544725660594</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1544725660594</updated>
+    </task>
+    <task id="LOCAL-00011" summary="soccerUI update (for Snir)">
+      <created>1544727175527</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1544727175527</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Amit - soccerUI bootStrap update">
+      <created>1544798501217</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1544798501217</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Amit - soccerUI bootStrap update">
+      <created>1553068518341</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1553068518341</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Amit - soccerUI static folder update">
+      <created>1553068752193</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1553068752193</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Amit - ChartJs, pie presentation for predicate.">
+      <created>1553955361382</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1553955361382</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Amit - updating pie Chart from ajax call">
+      <created>1554026911235</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1554026911235</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Amit - Updating Chart.js pie per each leauge">
+      <created>1554033532874</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1554033532874</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Amit - Updating navbar">
+      <created>1555851027430</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1555851027430</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Amit - Updating predicate button API">
+      <created>1556106246125</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1556106246125</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Amit - Updating predicate button API - England view">
+      <created>1556696501258</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1556696501258</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Amit - Updating predicate button API - England,Spain,Italy view">
+      <created>1556697848119</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1556697848119</updated>
+    </task>
+    <task id="LOCAL-00022" summary="Amit - Update Pictures">
+      <created>1556701782629</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1556701782629</updated>
+    </task>
+    <task id="LOCAL-00023" summary="Amit - Normalization of the model result.&#10;       Validation of Teams peak.">
+      <created>1556806412295</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1556806412296</updated>
+    </task>
+    <task id="LOCAL-00024" summary="Amit - Spinner Update + Alert UI changed">
+      <created>1557577716447</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1557577716447</updated>
+    </task>
+    <task id="LOCAL-00025" summary="Amit">
+      <created>1557577800344</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1557577800344</updated>
+    </task>
+    <task id="LOCAL-00026" summary="Amit - Update Teams name + UI code organization">
+      <created>1557680297285</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1557680297285</updated>
+    </task>
+    <task id="LOCAL-00027" summary="Amit - Update Pictures">
+      <created>1560244983186</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1560244983186</updated>
+    </task>
+    <task id="LOCAL-00028" summary="Amit - Update Pictures">
+      <created>1560245669234</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1560245669234</updated>
+    </task>
+    <task id="LOCAL-00029" summary="Amit - Update Pictures">
+      <created>1560245930489</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1560245930489</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Test__SoccerUI - 2018.12.13 at 11h 13m 38s.xml">
+      <configuration name="Test: SoccerUI" configurationId="DjangoTestsConfigurationType" />
+    </history-entry>
+    <history-entry file="Test__SoccerUI - 2018.12.13 at 11h 14m 05s.xml">
+      <configuration name="Test: SoccerUI" configurationId="DjangoTestsConfigurationType" />
+    </history-entry>
+    <history-entry file="Test__SoccerUI - 2018.12.13 at 11h 16m 27s.xml">
+      <configuration name="Test: SoccerUI" configurationId="DjangoTestsConfigurationType" />
+    </history-entry>
+    <history-entry file="Test__SoccerUI - 2018.12.13 at 11h 30m 02s.xml">
+      <configuration name="Test: SoccerUI" configurationId="DjangoTestsConfigurationType" />
+    </history-entry>
+    <history-entry file="Test__SoccerUI - 2018.12.13 at 11h 30m 41s.xml">
+      <configuration name="Test: SoccerUI" configurationId="DjangoTestsConfigurationType" />
+    </history-entry>
+    <history-entry file="Test__SoccerUI - 2018.12.13 at 11h 36m 23s.xml">
+      <configuration name="Test: SoccerUI" configurationId="DjangoTestsConfigurationType" />
+    </history-entry>
+    <history-entry file="Test__SoccerUI - 2018.12.13 at 11h 37m 03s.xml">
+      <configuration name="Test: SoccerUI" configurationId="DjangoTestsConfigurationType" />
+    </history-entry>
+    <history-entry file="Test__SoccerUI - 2018.12.13 at 11h 50m 28s.xml">
+      <configuration name="Test: SoccerUI" configurationId="DjangoTestsConfigurationType" />
+    </history-entry>
+    <history-entry file="Test__djangoSoccerUIApp - 2018.12.13 at 12h 44m 43s.xml">
+      <configuration name="Test: djangoSoccerUIApp" configurationId="DjangoTestsConfigurationType" />
+    </history-entry>
+    <history-entry file="pytest_in_model_exp_py - 2019.04.26 at 20h 29m 54s.xml">
+      <configuration name="pytest in model_exp.py" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="379099000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" x="2636" y="185" width="488" height="669" id="Project" order="0" sideWeight="0.49292454" visible="true" weight="0.22921109" />
+      <window_info id="Structure" order="1" sideWeight="0.5070755" side_tool="true" weight="0.15616623" />
+      <window_info id="Favorites" order="2" sideWeight="0.5014837" side_tool="true" weight="0.3" />
+      <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="1" sideWeight="0.49865952" weight="0.32748538" />
+      <window_info anchor="bottom" id="Version Control" order="2" sideWeight="0.4953083" weight="0.17397662" />
+      <window_info anchor="bottom" id="Python Console" order="3" sideWeight="0.6038874" weight="0.38011697" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="4" sideWeight="0.49932975" visible="true" weight="0.66555554" />
+      <window_info anchor="bottom" id="Event Log" order="5" sideWeight="0.288874" side_tool="true" weight="0.34649122" />
+      <window_info anchor="bottom" id="Message" order="6" />
+      <window_info anchor="bottom" id="Find" order="7" sideWeight="0.6642091" weight="0.29" />
+      <window_info anchor="bottom" id="Run" order="8" sideWeight="0.711126" weight="0.35666665" />
+      <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="11" weight="0.54532164" />
+      <window_info anchor="bottom" id="Debug" order="12" sideWeight="0.7097855" side_tool="true" weight="0.20175439" />
+      <window_info anchor="bottom" id="Messages" order="13" />
+      <window_info anchor="bottom" id="manage.py@SoccerProject" order="14" show_stripe_button="false" weight="0.329429" />
+      <window_info anchor="right" id="Mongo Explorer" order="0" weight="0.25838926" />
+      <window_info anchor="right" id="SciView" order="1" />
+      <window_info anchor="right" id="Database" order="2" weight="0.32885906" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="3" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="4" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="5" weight="0.25" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" x="2636" y="185" width="488" height="669" id="Project" order="0" sideWeight="0.49292454" visible="true" weight="0.13432837" />
+      <window_info id="Structure" order="1" sideWeight="0.5070755" side_tool="true" weight="0.15616623" />
+      <window_info id="Favorites" order="2" sideWeight="0.5014837" side_tool="true" weight="0.3" />
+      <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="1" sideWeight="0.49865952" weight="0.32748538" />
+      <window_info anchor="bottom" id="Version Control" order="2" sideWeight="0.4953083" weight="0.17397662" />
+      <window_info anchor="bottom" id="Python Console" order="3" sideWeight="0.6038874" weight="0.38011697" />
+      <window_info anchor="bottom" id="Terminal" order="4" sideWeight="0.49932975" weight="0.2383041" />
+      <window_info anchor="bottom" id="Event Log" order="5" sideWeight="0.288874" side_tool="true" weight="0.34649122" />
+      <window_info anchor="bottom" id="Message" order="6" />
+      <window_info anchor="bottom" id="Find" order="7" sideWeight="0.6642091" weight="0.29093567" />
+      <window_info active="true" anchor="bottom" id="Run" order="8" sideWeight="0.711126" visible="true" weight="0.18888889" />
+      <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="11" weight="0.54532164" />
+      <window_info anchor="bottom" id="Debug" order="12" sideWeight="0.7097855" side_tool="true" weight="0.20175439" />
+      <window_info anchor="bottom" id="Messages" order="13" />
+      <window_info anchor="bottom" id="manage.py@SoccerProject" order="14" show_stripe_button="false" weight="0.329429" />
+      <window_info anchor="right" id="Mongo Explorer" order="0" weight="0.25838926" />
+      <window_info anchor="right" id="SciView" order="1" />
+      <window_info anchor="right" id="Database" order="2" weight="0.32885906" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="3" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="4" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="5" weight="0.25" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Amit checked update" />
+    <MESSAGE value="Logger object added" />
+    <MESSAGE value="mongoDB plugin added + localhost mongoDB API" />
+    <MESSAGE value="generic logger separator update foe each OS" />
+    <MESSAGE value=" generic separator for each OS update in the Logger" />
+    <MESSAGE value="django framework added correctly" />
+    <MESSAGE value="first pages django web" />
+    <MESSAGE value="soccerUI update (for Snir)" />
+    <MESSAGE value="Amit - soccerUI bootStrap update" />
+    <MESSAGE value="Amit - soccerUI static folder update" />
+    <MESSAGE value="Amit - ChartJs, pie presentation for predicate." />
+    <MESSAGE value="Amit - updating pie Chart from ajax call" />
+    <MESSAGE value="Amit - Updating Chart.js pie per each leauge" />
+    <MESSAGE value="Amit - Updating navbar" />
+    <MESSAGE value="Amit - Updating predicate button API" />
+    <MESSAGE value="Amit - Updating predicate button API - England view" />
+    <MESSAGE value="Amit - Updating predicate button API - England,Spain,Italy view" />
+    <MESSAGE value="Amit - Normalization of the model result.&#10;       Validation of Teams peak." />
+    <MESSAGE value="Amit - Spinner Update + Alert UI changed" />
+    <MESSAGE value="Amit" />
+    <MESSAGE value="Amit - Update Teams name + UI code organization" />
+    <MESSAGE value="Amit - Update Pictures" />
+    <option name="LAST_COMMIT_MESSAGE" value="Amit - Update Pictures" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/SoccerProject$manage.coverage" NAME="manage Coverage Results" MODIFIED="1568203916716" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/soccerUI" />
+    <SUITE FILE_PATH="coverage/SoccerProject$model_server.coverage" NAME="model_server Coverage Results" MODIFIED="1568645792731" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/model" />
+    <SUITE FILE_PATH="coverage/SoccerProject$setup.coverage" NAME="setup Coverage Results" MODIFIED="1554898314563" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/SoccerProject$randomForestGraph.coverage" NAME="randomForestGraph Coverage Results" MODIFIED="1560246711832" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/model" />
+    <SUITE FILE_PATH="coverage/SoccerProject$CustomGridSearch2.coverage" NAME="CustomGridSearch2 Coverage Results" MODIFIED="1559554078832" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/model" />
+    <SUITE FILE_PATH="coverage/SoccerProject$CustomGridSearch.coverage" NAME="CustomGridSearch Coverage Results" MODIFIED="1559828244369" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/model" />
+    <SUITE FILE_PATH="coverage/SoccerProject$main.coverage" NAME="main Coverage Results" MODIFIED="1556108156429" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Logger" />
+    <SUITE FILE_PATH="coverage/SoccerProject$pytest_in_model_exp_py.coverage" NAME="pytest in model_exp.py Coverage Results" MODIFIED="1556299793515" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/model" />
+    <SUITE FILE_PATH="coverage/SoccerProject$soccer_predict_model.coverage" NAME="soccer_predict_model Coverage Results" MODIFIED="1556299779798" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/model" />
+    <SUITE FILE_PATH="coverage/SoccerProject$Calc.coverage" NAME="Calc Coverage Results" MODIFIED="1558104255111" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/model" />
+    <SUITE FILE_PATH="coverage/SoccerProject$main__1_.coverage" NAME="main (1) Coverage Results" MODIFIED="1556300374468" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/model" />
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>input</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>os.getcwd()</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>abs_dir</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>name</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>os.path.isfile(log_filename)</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/platform-impl.jar!/resources/html5-schema/html5/structural.rnc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1088">
+          <caret line="64" column="16" selection-start-line="64" selection-start-column="16" selection-end-line="64" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/ide/ide-scripting.groovy">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model/getParamsFromModel.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/soccerUI/pages/templates/home.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/Anaconda3/envs/ML/Lib/site-packages/flask_cors/extension.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="125" column="8" selection-start-line="125" selection-start-column="8" selection-end-line="125" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/demo/src/components/chart.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/soccerUI/static/js/pie.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2108">
+          <caret line="125" column="57" selection-start-line="125" selection-start-column="20" selection-end-line="125" selection-end-column="57" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <element signature="n#!!block;n#hide_loaders#0" />
+            <element signature="n#!!block;n#show_loaders#0" />
+            <element signature="n#!!block;n#hide_all_loaders#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/soccerUI/soccerUIMoudle/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1105">
+          <caret line="68" column="28" selection-start-line="68" selection-start-column="28" selection-end-line="68" selection-end-column="28" />
+          <folding>
+            <element signature="e#315#324#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model/teams_mapper.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="339">
+          <caret line="37" column="59" selection-start-line="16" selection-start-column="12" selection-end-line="37" selection-end-column="59" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/soccerUI/static/css/owl.theme.default.min.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/soccerUI/static/css/owl.carousel.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="36" lean-forward="true" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Anaconda3/envs/ML/Lib/site-packages/bootstrap4/statics/css/bootstrap.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="5" column="142918" selection-start-line="5" selection-start-column="142918" selection-end-line="5" selection-end-column="142918" />
+          <folding>
+            <element signature="e#61909#62109#2" expanded="true" />
+            <element signature="e#62317#62466#2" expanded="true" />
+            <element signature="e#62968#63114#2" expanded="true" />
+            <element signature="e#63415#63581#1" expanded="true" />
+            <element signature="e#74301#74544#2" expanded="true" />
+            <element signature="e#75411#75660#2" expanded="true" />
+            <element signature="e#101957#102147#2" expanded="true" />
+            <element signature="e#102193#102383#2" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Anaconda3/envs/ML/Lib/site-packages/nbconvert/resources/style.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-439">
+          <caret line="1333" column="16" selection-start-line="1333" selection-start-column="9" selection-end-line="1333" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Anaconda3/envs/ML/Lib/site-packages/bootstrap4/statics/css/bootstrap.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="173">
+          <caret line="8826" column="16" selection-start-line="8826" selection-start-column="9" selection-end-line="8826" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/soccerUI/static/images/Amit.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/soccerUI/static/images/germany.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/soccerUI/static/images/hero_1.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/soccerUI/static/images/img_1.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/soccerUI/static/images/img_2.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/soccerUI/static/images/img_3.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/soccerUI/static/images/logo_1.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/soccerUI/static/images/logo_2.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/soccerUI/static/images/logo_3.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/soccerUI/static/fonts/icomoon/fonts/icomoon.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/soccerUI/static/js/aos.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/soccerUI/static/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6698">
+          <caret line="394" column="19" selection-start-line="394" selection-start-column="19" selection-end-line="394" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/soccerUI/static/css/bootstrap/bootstrap.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="122315">
+          <caret line="7195" column="16" selection-start-line="7195" selection-start-column="9" selection-end-line="7195" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/soccerUI/static/css/bootstrap/bootstrap-reboot.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="15" selection-start-line="10" selection-start-column="15" selection-end-line="10" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/soccerUI/static/css/bootstrap/bootstrap.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="122366">
+          <caret line="7198" column="30" selection-start-line="7198" selection-start-column="30" selection-end-line="7198" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/soccerUI/static/css/bootstrap/bootstrap-grid.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="25" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/soccerUI/static/css/bootstrap.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2754">
+          <caret line="5" column="157692" selection-start-line="5" selection-start-column="157692" selection-end-line="5" selection-end-column="157692" />
+          <folding>
+            <element signature="e#65802#66002#2" expanded="true" />
+            <element signature="e#66208#66357#2" expanded="true" />
+            <element signature="e#66862#67008#2" expanded="true" />
+            <element signature="e#67315#67481#1" expanded="true" />
+            <element signature="e#82737#82980#2" expanded="true" />
+            <element signature="e#83879#84128#2" expanded="true" />
+            <element signature="e#113678#113868#2" expanded="true" />
+            <element signature="e#113914#114104#2" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/soccerUI/pages/templates/base.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="116">
+          <caret line="103" column="91" selection-start-line="103" selection-start-column="74" selection-end-line="103" selection-end-column="91" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/soccerUI/static/fonts/icomoon/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/soccerUI/server-http-handler.log" />
+    <entry file="file://$PROJECT_DIR$/model/CustomGridSearch.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="625">
+          <caret line="269" selection-start-line="269" selection-end-line="269" />
+          <folding>
+            <element signature="e#0#33#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model/soccer_predict_model.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-20">
+          <caret line="71" column="19" selection-start-line="71" selection-start-column="19" selection-end-line="71" selection-end-column="19" />
+          <folding>
+            <element signature="e#0#52#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model/GridSearch.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="41" lean-forward="true" selection-start-line="11" selection-start-column="2" selection-end-line="11" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/soccerUI/requirements.txt" />
+    <entry file="file://$PROJECT_DIR$/requirements.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="573">
+          <caret line="129" selection-start-line="129" selection-end-line="129" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model/mongoDbLogger.log" />
+    <entry file="file://$PROJECT_DIR$/model/Data_Predict_Organizer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Anaconda3/envs/ML/Lib/site-packages/flask/app.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="406">
+          <caret line="2308" selection-start-line="2308" selection-end-line="2308" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HttpHandlers/HttpHandler.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="876">
+          <caret line="52" column="17" selection-start-line="52" selection-start-column="17" selection-end-line="52" selection-end-column="17" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/soccerUI/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/soccerUI/manage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+          <folding>
+            <element signature="e#22#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model/model_exp.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="281">
+          <caret line="95" column="32" selection-start-line="95" selection-start-column="32" selection-end-line="95" selection-end-column="32" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataParser/RedWoodParser.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="13" column="6" selection-start-line="13" selection-start-column="6" selection-end-line="13" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/soccerUI/HttpHandlers/mongoDB_API.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="281">
+          <caret line="19" column="8" selection-start-line="19" selection-start-column="8" selection-end-line="19" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model/dataManger.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="26" column="24" selection-start-line="26" selection-start-column="24" selection-end-line="26" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model/model_server.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="28" selection-start-line="2" selection-start-column="28" selection-end-line="2" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

@@ -1,0 +1,11 @@
+booster,learning_rate,max_depth,n_estimators,objective,num_of_last_games,score
+gbtree,0.1,3,100,multi:softprob,1,0.4625
+gbtree,0.1,3,100,multi:softprob,2,0.525
+gbtree,0.1,3,100,multi:softprob,3,0.5
+gbtree,0.1,3,100,multi:softprob,4,0.45
+gbtree,0.1,3,100,multi:softprob,5,0.475
+gbtree,0.1,3,100,multi:softprob,6,0.45
+gbtree,0.1,3,100,multi:softprob,7,0.50625
+gbtree,0.1,3,100,multi:softprob,8,0.48125
+gbtree,0.1,3,100,multi:softprob,9,0.4375
+gbtree,0.1,3,100,multi:softprob,10,0.375

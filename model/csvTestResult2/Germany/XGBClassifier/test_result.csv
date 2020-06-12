@@ -1,0 +1,9 @@
+estimator,m_depth,boost,obj,l_rate,b_score,n_games,acc
+100,3,gblinear,reg:linear,0.1,0.2,1,0.46875 
+100,3,gblinear,reg:linear,0.1,0.2,1,0.46875
+100,3,gblinear,reg:linear,0.1,0.2,1,0.48936170212765956 
+100,3,gblinear,reg:linear,0.1,0.2,1,0.48936170212765956
+100,3,gblinear,reg:linear,0.1,0.2,1,0.44537815126050423 
+100,3,gblinear,reg:linear,0.1,0.2,1,0.44537815126050423
+100,3,gblinear,reg:linear,0.1,0.2,1,0.47474747474747475 
+100,3,gblinear,reg:linear,0.1,0.2,1,0.47474747474747475

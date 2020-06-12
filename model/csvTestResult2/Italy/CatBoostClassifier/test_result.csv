@@ -1,0 +1,7 @@
+iterations,learning_rate,depth,boosting_type,n_games,acc
+300,0.1,4,Ordered,1,0.45
+300,0.1,4,Ordered,1,0.45
+300,0.1,4,Ordered,1,0.4326241134751773
+300,0.1,4,Ordered,1,0.4326241134751773
+300,0.1,4,Ordered,1,0.37815126050420167
+300,0.1,4,Ordered,1,0.37815126050420167
